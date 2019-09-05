@@ -1,3 +1,8 @@
+To make this project works correctly you have to insert your API key and your MongoDB link 
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
